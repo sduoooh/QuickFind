@@ -5,7 +5,7 @@ But not so quick.
 
 ## How to use？
 
-Changing the value of ".*path"s in ```//QuickFind.h``` and,
+Changing the value of ".*path"s in ```QuickFind.h``` and,
 some cases will needing to change the codes' behaves.
 Such as the number of your "spypath" is more than 2,
 so that you need add a same sentences or converting the code style.
