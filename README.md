@@ -36,5 +36,5 @@ If you are tried of my program's bugs or my English level's low,
 you can find it on the ```Setting``` of the windows system and, 
 to do some fine-tuning.
 
-Although I started this project with the reason why I did not find the above system-level program, 
-I still wanted to prepare for other subsequent programs through the program I developed.
+Although I started this project partly because I didn't find the above-mentioned built-in program, 
+the main reason was that I wanted to prepare for my other programs through this program I developed.
